@@ -3,3 +3,6 @@
 phobosk
 
 credits: me monky and bon55
+
+
+<img width="585" height="92" alt="image" src="https://github.com/user-attachments/assets/4295a658-3aee-4dc2-a9ad-7372a61a28c6" />
