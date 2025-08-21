@@ -1,6 +1,7 @@
 # 3arthh4ck-1.21
-<img width="1916" height="1080" alt="signal-2025-08-16-100940_002" src="https://github.com/user-attachments/assets/41258fe5-7a0e-4adf-b7df-1855b087f371" />
-phobosk
+<img width="929" height="749" alt="image" src="https://github.com/user-attachments/assets/ba9dd9bb-f8a3-4acf-b2c4-e87ab69d309c" />
+
+WORLDS WORST CLIENT AWARD OF 2025
 
 credits: me monky and bon55
 
