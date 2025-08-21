@@ -1,5 +1,6 @@
 # 3arthh4ck-1.21
-<img width="929" height="749" alt="image" src="https://github.com/user-attachments/assets/ba9dd9bb-f8a3-4acf-b2c4-e87ab69d309c" />
+<img width="786" height="528" alt="image" src="https://github.com/user-attachments/assets/983e32f9-cfe5-4f74-918f-1c6137089cdf" />
+
 
 WORLDS WORST CLIENT AWARD OF 2025
 
